@@ -1,0 +1,26 @@
+body{
+    background-image: url(cerificate.jpg);
+    background-size: cover;
+}
+.div1{
+    font-size: 35px;
+    color:#5e0606;
+    margin-left: 8%;
+    border-bottom: 4px ridge #5e0606 ;
+    width: 50%;
+   
+}
+.sec2{
+    margin-top: 5%;
+    margin-left: 10%;
+    color: #A84448;
+}
+
+.div2{
+    border: 2px solid black;
+    margin-left: 65%;
+    width: 24%;
+    padding: 5px 5px 5px 5px;
+    margin-top: -15%;
+}
+

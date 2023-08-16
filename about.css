@@ -1,0 +1,44 @@
+body{
+    background-color:#F5E8C7;
+}
+h1{
+ font-size: 50px;
+ font-family: 'Edu SA Beginner', cursive;
+  
+ border-bottom: 3px ridge black;
+ width: 40%;
+ margin-top:5%;
+ margin-left: 2%;
+ 
+
+
+ 
+ 
+}
+.para{
+    font-size: 25px;
+    font-family:'Edu SA Beginner', cursive ;
+    margin-top: 3%;
+    margin-left: 2%;
+   
+}
+#p1::first-letter{
+    font-size: 40px;
+}
+.image{
+    position: relative;
+    margin-left: 75%;
+    margin-top: -25%;
+    height:"370px" ;
+    width:"250px"
+}
+.color-box{
+    position: absolute;
+    width: 320px;
+    height: 320px;
+    border: 5px solid black;
+    transform: rotate(45deg);
+    
+    top:120px;
+    right: 50px;
+}

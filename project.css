@@ -1,0 +1,31 @@
+body{
+    background-image: url("project.jpg");
+    background-size: cover;
+}
+
+.div1{
+    font-size: 40px;
+    margin-left: 30%;
+
+}
+.div2{
+    border: 2px solid #DFA67B;
+    width: 50%;
+    margin-left: 30%;
+    padding-left: 2%;
+    
+}
+
+.div3{
+    border: 2px solid #DFA67B;
+    width: 50%;
+    margin-left: 30%;
+    padding-left: 2%;
+}
+
+.div4{
+    border: 2px solid #DFA67B;
+    width: 50%;
+    margin-left: 30%;
+    padding-left: 2%;
+}
